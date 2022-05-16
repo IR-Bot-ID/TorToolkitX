@@ -12,7 +12,7 @@ except:
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 80
+        SERVPORT = 6318
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [-1001680823782 -1001627921216 -1001397548715]
@@ -37,7 +37,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DATABASE_URL = "dbname=railway user=postgres password=n4miQ7KXzSfegtR4v9cu host=containers-us-west-56.railway.app port=5432"
+        DATABASE_URL = "dbname=railway user=postgres password=n4miQ7KXzSfegtR4v9cu host=containers-us-west-56.railway.app port=6318"
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         # DATABASE_URL = "dbname=tortk user=postgres password=your-pass host=db port=5432"
