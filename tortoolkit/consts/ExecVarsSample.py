@@ -9,7 +9,7 @@ except:
         API_HASH = "71611534e8061b132d6f9b0a2ef8aa23"
         API_ID = 8238141
         BOT_TOKEN = "2085533896:AAFJixNxOlachLGHIhqstsvbv5tPyMQykOs"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://tortk-ilhamr0f11.cloud.okteto.net/"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 6318
